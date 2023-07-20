@@ -1,0 +1,8 @@
+import javax.jws.WebService;
+
+@WebService
+public class AdditionService {
+    public double add(double x, double y) {
+        return x + y;
+    }
+}

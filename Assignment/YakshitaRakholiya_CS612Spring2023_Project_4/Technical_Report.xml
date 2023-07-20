@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="technical_report.xsd">
+  
+  <title>Simplified Technical Report</title>
+  <author>Yakshita Rakholiya</author>
+  <id>U01875270</id>
+
+  <chapter number="1">
+    <title>Introduction</title>
+    <section number="1.1">
+      <title>Background</title>
+      <item>This is the first item.</item>
+      <item>This is the second item.</item>
+      <subsection number="1.1.1">
+        <title>Related Work</title>
+        <item>This is a related work item.</item>
+      </subsection>
+    </section>
+    <section number="1.2">
+      <title>Objectives</title>
+      <item>This is an objectives item.</item>
+    </section>
+  </chapter>
+  <chapter number="2">
+    <title>Methodology</title>
+    <section number="2.1">
+      <title>Experimental Design</title>
+      <item>This is an experimental design item.</item>
+    </section>
+    <section number="2.2">
+      <title>Data Collection</title>
+      <item>This is a data collection item.</item>
+    </section>
+  </chapter>
+</report>
